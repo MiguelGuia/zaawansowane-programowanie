@@ -1,3 +1,4 @@
 python_modularization/magazine/__pycache__/
 jobs.txt
 python_api/.venv
+python_api/__pycache__
